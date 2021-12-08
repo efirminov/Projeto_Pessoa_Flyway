@@ -1,0 +1,1 @@
+/*INSERT INTO TB_PESSOA ( nome, email, telefone, curso) VALUES  ('Evandro', 'evabdro@gmail.com', '123456789', 'inte')*/
